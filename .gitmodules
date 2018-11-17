@@ -1,0 +1,3 @@
+[submodule "IDASkins"]
+	path = IDASkins
+	url = https://github.com/zyantific/IDASkins.git
