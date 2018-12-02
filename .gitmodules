@@ -1,3 +1,6 @@
 [submodule "IDASkins"]
 	path = IDASkins
 	url = https://github.com/zyantific/IDASkins.git
+[submodule "AMIE"]
+	path = AMIE
+	url = https://github.com/NeatMonster/AMIE.git
