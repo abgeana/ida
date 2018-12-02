@@ -4,3 +4,6 @@
 [submodule "AMIE"]
 	path = AMIE
 	url = https://github.com/NeatMonster/AMIE.git
+[submodule "ida-minsc"]
+	path = ida-minsc
+	url = https://github.com/arizvisa/ida-minsc
