@@ -7,3 +7,6 @@
 [submodule "ida-minsc"]
 	path = ida-minsc
 	url = https://github.com/arizvisa/ida-minsc
+[submodule "diaphora"]
+	path = diaphora
+	url = https://github.com/joxeankoret/diaphora.git
