@@ -5,6 +5,7 @@ $ida_plugins_dir = "$env:APPDATA\Hex-Rays\IDA Pro\plugins"
 $plugin_dirs = @(
     "IDASkins\plugins"
     "AMIE"
+    "keypatch"
 )
 
 # clean the existing plugins folder
