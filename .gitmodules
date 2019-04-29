@@ -10,3 +10,6 @@
 [submodule "diaphora"]
 	path = diaphora
 	url = https://github.com/joxeankoret/diaphora.git
+[submodule "keypatch"]
+	path = keypatch
+	url = https://github.com/keystone-engine/keypatch.git
