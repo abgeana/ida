@@ -10,3 +10,12 @@
 [submodule "IDAPyHelper"]
 	path = IDAPyHelper
 	url = https://github.com/patois/IDAPyHelper.git
+[submodule "dsync"]
+	path = dsync
+	url = https://github.com/patois/dsync.git
+[submodule "xray"]
+	path = xray
+	url = https://github.com/patois/xray.git
+[submodule "ida_ifl"]
+	path = ida_ifl
+	url = https://github.com/hasherezade/ida_ifl.git
