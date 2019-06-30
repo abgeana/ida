@@ -1,21 +1,21 @@
 [submodule "AMIE"]
-	path = AMIE
+	path = plugins/AMIE
 	url = https://github.com/NeatMonster/AMIE.git
 [submodule "diaphora"]
-	path = diaphora
+	path = plugins/diaphora
 	url = https://github.com/joxeankoret/diaphora.git
 [submodule "keypatch"]
-	path = keypatch
+	path = plugins/keypatch
 	url = https://github.com/keystone-engine/keypatch.git
 [submodule "IDAPyHelper"]
-	path = IDAPyHelper
+	path = plugins/IDAPyHelper
 	url = https://github.com/patois/IDAPyHelper.git
 [submodule "dsync"]
-	path = dsync
+	path = plugins/dsync
 	url = https://github.com/patois/dsync.git
 [submodule "xray"]
-	path = xray
+	path = plugins/xray
 	url = https://github.com/patois/xray.git
 [submodule "ida_ifl"]
-	path = ida_ifl
+	path = plugins/ida_ifl
 	url = https://github.com/hasherezade/ida_ifl.git
