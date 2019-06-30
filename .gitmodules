@@ -1,12 +1,12 @@
 [submodule "AMIE"]
 	path = AMIE
 	url = https://github.com/NeatMonster/AMIE.git
-[submodule "ida-minsc"]
-	path = ida-minsc
-	url = https://github.com/arizvisa/ida-minsc
 [submodule "diaphora"]
 	path = diaphora
 	url = https://github.com/joxeankoret/diaphora.git
 [submodule "keypatch"]
 	path = keypatch
 	url = https://github.com/keystone-engine/keypatch.git
+[submodule "IDAPyHelper"]
+	path = IDAPyHelper
+	url = https://github.com/patois/IDAPyHelper.git
