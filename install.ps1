@@ -8,11 +8,10 @@ $ida_themes_dir = "${ida_dir}\themes"
 
 $plugin_dirs = @(
     "AMIE"
-    "IDASkins\plugins"
     "keypatch"
 )
 $theme_dirs = @(
-    "themes\vscode-dark"
+    "vscode-dark"
 )
 
 # clean the existing plugins and themes folders
@@ -28,11 +27,11 @@ New-Item -ItemType directory -Path "$ida_plugins_dir" | Out-Null
 New-Item -ItemType directory -Path "$ida_themes_dir" | Out-Null
 
 # copy the plugins
-#foreach ($p in $plugin_dirs) {
-#    Copy-Item -Recurse ".\$p\*" -Destination "$ida_plugins_dir"
-#}
+foreach ($p in $plugin_dirs) {
+    Copy-Item -Recurse ".\plugins\$p\*" -Destination "$ida_plugins_dir"
+}
 
 # copy the themes
 foreach ($p in $theme_dirs) {
-    Copy-Item -Recurse ".\$p" -Destination "$ida_themes_dir"
+    Copy-Item -Recurse ".\themes\$p" -Destination "$ida_themes_dir"
 }
