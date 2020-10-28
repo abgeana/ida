@@ -1,9 +1,6 @@
 [submodule "AMIE"]
 	path = plugins/AMIE
 	url = https://github.com/NeatMonster/AMIE.git
-[submodule "diaphora"]
-	path = plugins/diaphora
-	url = https://github.com/joxeankoret/diaphora.git
 [submodule "keypatch"]
 	path = plugins/keypatch
 	url = https://github.com/keystone-engine/keypatch.git
