@@ -10,9 +10,6 @@
 [submodule "IDAPyHelper"]
 	path = plugins/IDAPyHelper
 	url = https://github.com/patois/IDAPyHelper.git
-[submodule "dsync"]
-	path = plugins/dsync
-	url = https://github.com/patois/dsync.git
 [submodule "xray"]
 	path = plugins/xray
 	url = https://github.com/patois/xray.git
