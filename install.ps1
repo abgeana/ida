@@ -8,10 +8,11 @@ $ida_themes_dir = "${ida_dir}\themes"
 
 $plugin_dirs = @(
     "AMIE"
+    "ida_ifl"
     "keypatch"
+    "xray"
 )
 $theme_dirs = @(
-    "vscode-dark"
 )
 
 # clean the existing plugins and themes folders
