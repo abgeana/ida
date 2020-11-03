@@ -8,9 +8,11 @@ $ida_themes_dir = "${ida_dir}\themes"
 
 $plugin_dirs = @(
     "AMIE"
-    "ida_ifl"
     "keypatch"
-    "xray"
+# plugins below require python3 and ida newer than 7.3 (i.e. at least 7.4)
+# https://www.hex-rays.com/products/ida/support/ida74_idapython_python3.shtml
+#    "ida_ifl"
+#    "xray"
 )
 $theme_dirs = @(
 )
