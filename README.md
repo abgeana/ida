@@ -1,4 +1,4 @@
-# alegen-ida
+# ida
 
 My collection of IDA Pro plugins and scripts.
 
